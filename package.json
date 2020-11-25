@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/cynmojica1231/Homework18"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/cynmojica1231/Homework18"
   },
-  "homepage": "",
+  "homepage": "https://github.com/cynmojica1231/Homework18",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.5.15"
