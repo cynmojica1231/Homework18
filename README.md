@@ -10,17 +10,20 @@ Online/Offline Budget Trackers
 
 Offline Functionality:
 
-  * Enter deposits and expenses offline
+\* Enter deposits and expenses offline
 
 When brought back online:
 
-  * Offline entries added to tracker.
+\* Offline entries added to tracker.
 
 ## Live site:
 
 https://cmojica-budget-tracker.herokuapp.com/
 
-
 ## Offline image:
 
 ![Display Search](public\assets\images\offline.png).
+
+## Online image:
+
+![Display Search](public\assets\images\online.png).
