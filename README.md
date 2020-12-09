@@ -19,3 +19,8 @@ When brought back online:
 ## Live site:
 
 https://cmojica-budget-tracker.herokuapp.com/
+
+
+## Offline image:
+
+![Display Search](public\assets\images\offline.png).
