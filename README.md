@@ -22,7 +22,7 @@ https://cmojica-budget-tracker.herokuapp.com/
 
 ## Offline image:
 
-![Display Search](public\assets\images\offline.png).
+![](images/offline.png).
 
 ## Online image:
 
