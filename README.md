@@ -1,8 +1,6 @@
-# Homework18
+# Online/Offline Budget Trackers
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
-Online/Offline Budget Trackers
 
 - Using a previously created Budget Tracker application, a user is able to update information while online/offline. Updated application has offline access and functionality.
 
