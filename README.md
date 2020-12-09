@@ -20,10 +20,8 @@ When brought back online:
 
 https://cmojica-budget-tracker.herokuapp.com/
 
-## Offline image:
+## Online/Offline Budget Screenshot)
 
 ![](images/offline.png).
-
-## Online image:
 
 ![](images/online.png).
